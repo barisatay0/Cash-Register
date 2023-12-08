@@ -1,0 +1,17 @@
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\bin\Debug\net6.0-windows\Adisyon.exe
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\bin\Debug\net6.0-windows\Adisyon.deps.json
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\bin\Debug\net6.0-windows\Adisyon.runtimeconfig.json
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\bin\Debug\net6.0-windows\Adisyon.dll
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\bin\Debug\net6.0-windows\Adisyon.pdb
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.Form1.resources
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.Form2.resources
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.csproj.GenerateResource.cache
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.AssemblyInfoInputs.cache
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.AssemblyInfo.cs
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.csproj.CoreCompileInputs.cache
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.dll
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\refint\Adisyon.dll
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.pdb
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\Adisyon.genruntimeconfig.cache
+C:\Users\Barış Atay\Desktop\yazılım\Projeler\c#\Adisyon\Adisyon\obj\Debug\net6.0-windows\ref\Adisyon.dll
